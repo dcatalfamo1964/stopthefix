@@ -1,2 +1,2 @@
 # stopthefix
-Microsite to advocate for fair wagering in NY racing”
+Microsite to advocate for fair wagering in NY racing
